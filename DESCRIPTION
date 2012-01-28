@@ -1,0 +1,12 @@
+Package: CC.Sim
+Type: Package
+Title: JHSPH in-house simulation of case-control genetic association data
+Version: 0.1
+Date: January 26, 2012
+Author: Samuel G. Younkin
+Maintainer: <syounkin@jhsph.edu>
+Description: no description right now
+License: GPL (>= 2)
+Depends: R (>= 2.14.0), haplo.stats
+LazyLoad: yes
+
